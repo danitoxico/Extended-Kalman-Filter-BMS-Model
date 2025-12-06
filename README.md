@@ -22,6 +22,7 @@ BatterySOHEstimationPlotFinal
 
 
 - References
+
 [1] Plett, G. L. Battery Management Systems, Volume I & II:
 Battery Modeling and State Estimation. Artech House.
 
